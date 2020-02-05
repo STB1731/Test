@@ -1,0 +1,1454 @@
+﻿Log file open, 02/03/20 11:34:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VRTest1
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.054985
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11100242
+LogInit: Engine Version: 4.24.2-11100242+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: NVIDIA GeForce GTX 1060
+LogInit: Compiled (64-bit): Jan 24 2020 02:05:53
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Unreal Projects/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Config/Windows/Engine.ini]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Config/Windows/Engine.ini]
+[2020.02.03-17.34.21:658][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Config/Windows/Engine.ini]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Config/Windows/Engine.ini]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.03-17.34.21:658][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Config/Windows/Engine.ini]
+[2020.02.03-17.34.21:658][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Config/Windows/Engine.ini]
+[2020.02.03-17.34.21:661][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-17.34.21:661][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.03-17.34.21:661][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.03-17.34.21:661][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-17.34.21:661][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.02.03-17.34.21:661][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-17.34.21:661][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.03-17.34.21:661][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.03-17.34.21:661][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.03-17.34.21:661][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.03-17.34.21:661][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.03-17.34.21:661][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.03-17.34.21:661][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.03-17.34.21:661][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.03-17.34.21:661][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.03-17.34.21:661][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.03-17.34.21:661][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.03-17.34.21:661][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.03-17.34.21:661][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.03-17.34.21:661][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.03-17.34.21:661][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.03-17.34.21:661][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.03-17.34.21:661][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.03-17.34.21:661][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.03-17.34.21:661][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-17.34.21:661][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.02.03-17.34.21:661][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.03-17.34.21:661][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.03-17.34.21:661][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.02.03-17.34.21:661][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.03-17.34.21:661][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.02.03-17.34.21:661][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.03-17.34.21:661][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.02.03-17.34.21:661][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.02.03-17.34.21:661][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.03-17.34.21:661][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.02.03-17.34.21:661][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.02.03-17.34.21:661][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.03-17.34.21:662][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.03-17.34.21:662][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.03-17.34.21:662][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.03-17.34.21:665][  0]LogHAL: Display: Platform has ~ 16 GB [17031884800 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.03-17.34.21:665][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.03-17.34.21:665][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-17.34.21:665][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.03-17.34.21:665][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.03-17.34.21:665][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-17.34.21:665][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.02.03-17.34.21:665][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-17.34.21:665][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.03-17.34.21:665][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.03-17.34.21:665][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.03-17.34.21:665][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.03-17.34.21:665][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.03-17.34.21:665][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.03-17.34.21:665][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.03-17.34.21:665][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.03-17.34.21:665][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.03-17.34.21:665][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.03-17.34.21:665][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.03-17.34.21:665][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.03-17.34.21:665][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.03-17.34.21:665][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.03-17.34.21:665][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.03-17.34.21:665][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.03-17.34.21:665][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.03-17.34.21:665][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.03-17.34.21:665][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-17.34.21:665][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.02.03-17.34.21:665][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.03-17.34.21:665][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.02.03-17.34.21:666][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.03-17.34.21:667][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.03-17.34.21:667][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.03-17.34.21:667][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Config/Windows/Engine.ini]
+[2020.02.03-17.34.21:667][  0]LogInit: Computer: DESKTOP-GD3TDFE
+[2020.02.03-17.34.21:667][  0]LogInit: User: raybr
+[2020.02.03-17.34.21:667][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.02.03-17.34.21:667][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.03-17.34.21:667][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.02.03-17.34.21:667][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.03-17.34.21:667][  0]LogMemory: Process Physical Memory: 105.23 MB used, 105.23 MB peak
+[2020.02.03-17.34.21:667][  0]LogMemory: Process Virtual Memory: 101.83 MB used, 101.83 MB peak
+[2020.02.03-17.34.21:667][  0]LogMemory: Physical Memory: 4954.07 MB used,  11288.80 MB free, 16242.87 MB total
+[2020.02.03-17.34.21:667][  0]LogMemory: Virtual Memory: 5159.25 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2020.02.03-17.34.21:704][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.02.03-17.34.21:730][  0]LogInit: Using OS detected language (en-US).
+[2020.02.03-17.34.21:730][  0]LogInit: Using OS detected locale (en-US).
+[2020.02.03-17.34.21:730][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.02.03-17.34.21:879][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.03-17.34.21:903][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.03-17.34.21:903][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.03-17.34.22:028][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.03-17.34.22:028][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.02.03-17.34.22:028][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.02.03-17.34.22:028][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.03-17.34.22:080][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2020.02.03-17.34.22:080][  0]LogD3D11RHI:       6061/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.02.03-17.34.22:111][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.02.03-17.34.22:111][  0]LogD3D11RHI:       128/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.02.03-17.34.22:113][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.03-17.34.22:113][  0]LogD3D11RHI:       0/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.03-17.34.22:113][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.03-17.34.22:120][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.03-17.34.22:120][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.03-17.34.22:120][  0]LogWindows: EnumDisplayDevices:
+[2020.02.03-17.34.22:120][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2020.02.03-17.34.22:121][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.02.03-17.34.22:121][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.02.03-17.34.22:121][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.02.03-17.34.22:122][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.02.03-17.34.22:122][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.02.03-17.34.22:122][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.02.03-17.34.22:122][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.02.03-17.34.22:122][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2020.02.03-17.34.22:122][  0]LogD3D11RHI:   Driver Version: 389.12 (internal:23.21.13.8912, unified:389.12)
+[2020.02.03-17.34.22:122][  0]LogD3D11RHI:      Driver Date: 3-7-2018
+[2020.02.03-17.34.22:122][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2020.02.03-17.34.22:150][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.02.03-17.34.22:150][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.03-17.34.22:203][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.03-17.34.22:494][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.02.03-17.34.22:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.02.03-17.34.22:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.02.03-17.34.22:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.02.03-17.34.22:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.02.03-17.34.22:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.02.03-17.34.22:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.02.03-17.34.22:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.02.03-17.34.22:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.02.03-17.34.22:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.02.03-17.34.22:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.03-17.34.22:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.02.03-17.34.22:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.02.03-17.34.22:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.03-17.34.22:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.03-17.34.22:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.03-17.34.22:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.03-17.34.22:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.02.03-17.34.22:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.02.03-17.34.22:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.02.03-17.34.22:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.02.03-17.34.22:550][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.03-17.34.22:557][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.02.03-17.34.22:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.02.03-17.34.22:571][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.02.03-17.34.22:578][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.02.03-17.34.22:585][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.02.03-17.34.22:609][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.02.03-17.34.22:609][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.02.03-17.34.22:623][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.02.03-17.34.22:623][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.02.03-17.34.22:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.03-17.34.22:638][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.02.03-17.34.22:645][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.02.03-17.34.22:652][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.02.03-17.34.22:652][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.03-17.34.22:657][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.03-17.34.22:679][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Intermediate/Shaders/WorkingDirectory/16784/).
+[2020.02.03-17.34.22:679][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/raybr/AppData/Local/Temp/UnrealShaderWorkingDir/9CAA44254784EA0A32C0978DF0873C2B/'.
+[2020.02.03-17.34.22:679][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.03-17.34.22:679][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.03-17.34.22:679][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.03-17.34.23:294][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.03-17.34.23:355][  0]LogDerivedDataCache: Loaded boot cache 0.06s 100MB C:/Users/raybr/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.03-17.34.23:355][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/raybr/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.02.03-17.34.23:355][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.03-17.34.23:355][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.03-17.34.23:355][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.03-17.34.23:355][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.03-17.34.23:364][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.03-17.34.23:364][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.03-17.34.23:364][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.03-17.34.23:365][  0]LogDerivedDataCache: Using Local data cache path C:/Users/raybr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.03-17.34.23:365][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.03-17.34.23:365][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.03-17.34.23:387][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.03-17.34.23:389][  0]LogSlate: Using FreeType 2.10.0
+[2020.02.03-17.34.23:389][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.03-17.34.23:430][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2020.02.03-17.34.23:662][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.03-17.34.23:789][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.03-17.34.23:789][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.03-17.34.23:789][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.03-17.34.23:789][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.03-17.34.23:789][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.03-17.34.23:798][  0]LogNetVersion: VRTest1 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2261633582)
+[2020.02.03-17.34.24:599][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.028540 seconds
+[2020.02.03-17.34.24:605][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.02.03-17.34.24:605][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.02.03-17.34.24:605][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.03-17.34.24:912][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.03-17.34.24:914][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.03-17.34.24:954][  0]SourceControl: Source control is disabled
+[2020.02.03-17.34.24:954][  0]SourceControl: Source control is disabled
+[2020.02.03-17.34.24:955][  0]SourceControl: Source control is disabled
+[2020.02.03-17.34.24:956][  0]SourceControl: Source control is disabled
+[2020.02.03-17.34.24:956][  0]SourceControl: Source control is disabled
+[2020.02.03-17.34.25:020][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.03-17.34.25:031][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.02.03-17.34.25:031][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.02.03-17.34.25:130][  0]LogOcInput: OculusInput pre-init called
+[2020.02.03-17.34.25:137][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.02.03-17.34.25:137][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.02.03-17.34.25:208][  0]LogEngine: Initializing Engine...
+[2020.02.03-17.34.25:209][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.03-17.34.25:210][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.03-17.34.25:575][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.03-17.34.25:582][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.03-17.34.25:587][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.03-17.34.25:587][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.03-17.34.25:587][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.03-17.34.25:587][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.03-17.34.25:587][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.03-17.34.25:587][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.03-17.34.25:587][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.03-17.34.25:587][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.03-17.34.25:587][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.03-17.34.25:587][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.03-17.34.25:668][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.03-17.34.25:668][  0]LogAudioMixer: Display: Name: Speakers/Headphones (Realtek(R) Audio)
+[2020.02.03-17.34.25:668][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.02.03-17.34.25:668][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.03-17.34.25:668][  0]LogAudioMixer: Display: Channel Count Used: 8
+[2020.02.03-17.34.25:668][  0]LogAudioMixer: Display: Device Channel Count: 8
+[2020.02.03-17.34.25:668][  0]LogAudioMixer: Display: Channel Order:
+[2020.02.03-17.34.25:668][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.03-17.34.25:668][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.02.03-17.34.25:668][  0]LogAudioMixer: Display: 2: FrontCenter
+[2020.02.03-17.34.25:668][  0]LogAudioMixer: Display: 3: LowFrequency
+[2020.02.03-17.34.25:668][  0]LogAudioMixer: Display: 4: BackLeft
+[2020.02.03-17.34.25:668][  0]LogAudioMixer: Display: 5: BackRight
+[2020.02.03-17.34.25:668][  0]LogAudioMixer: Display: 6: SideLeft
+[2020.02.03-17.34.25:668][  0]LogAudioMixer: Display: 7: SideRight
+[2020.02.03-17.34.26:221][  0]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2020.02.03-17.34.26:225][  0]LogInit: FAudioDevice initialized.
+[2020.02.03-17.34.26:225][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.03-17.34.26:315][  0]LogDerivedDataCache: Saved boot cache 0.09s 100MB C:/Users/raybr/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.02.03-17.34.26:321][  0]LogInit: Texture streaming: Enabled
+[2020.02.03-17.34.26:329][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.03-17.34.26:329][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.02.03-17.34.26:334][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.02.03-17.34.26:359][  0]LogInit: Transaction tracking system initialized
+[2020.02.03-17.34.26:367][  0]BlueprintLog: New page: Editor Load
+[2020.02.03-17.34.26:387][  0]LocalizationService: Localization service is disabled
+[2020.02.03-17.34.26:588][  0]LogFileCache: Scanning file cache for directory 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/' took 0.00s
+[2020.02.03-17.34.26:588][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.03-17.34.26:588][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.03-17.34.27:097][  0]SourceControl: Source control is disabled
+[2020.02.03-17.34.27:097][  0]Cmd: MAP LOAD FILE="C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.03-17.34.27:098][  0]LightingResults: New page: Lighting Build
+[2020.02.03-17.34.27:098][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-17.34.27:098][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-17.34.27:098][  0]MapCheck: New page: Map Check
+[2020.02.03-17.34.27:098][  0]LightingResults: New page: Lighting Build
+[2020.02.03-17.34.27:128][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.02.03-17.34.27:395][  0]LogAIModule: Creating AISystem for world MotionControllerMap
+[2020.02.03-17.34.27:412][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.03-17.34.27:442][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.02.03-17.34.27:442][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.03-17.34.27:442][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.169ms to complete.
+[2020.02.03-17.34.27:442][  0]LogFileHelpers: Loading map 'MotionControllerMap' took 0.345
+[2020.02.03-17.34.27:554][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-17.34.27:560][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-17.34.27:565][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-17.34.27:571][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-17.34.27:575][  0]LogCollectionManager: Loaded 0 collections in 0.000772 seconds
+[2020.02.03-17.34.27:586][  0]LogFileCache: Scanning file cache for directory 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Collections/' took 0.00s
+[2020.02.03-17.34.27:586][  0]LogFileCache: Scanning file cache for directory 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/Developers/raybr/Collections/' took 0.00s
+[2020.02.03-17.34.27:586][  0]LogFileCache: Scanning file cache for directory 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/Collections/' took 0.00s
+[2020.02.03-17.34.27:586][  0]LogContentBrowser: Native class hierarchy populated in 0.0068 seconds. Added 3015 classes and 717 folders.
+[2020.02.03-17.34.27:588][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.03-17.34.27:625][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.03-17.34.27:628][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2020.02.03-17.34.27:675][  0]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.03-17.34.27:677][  0]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.03-17.34.27:683][  0]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.03-17.34.27:745][  0]LogRenderer: Reallocating scene render targets to support 964x432 Format 26 NumSamples 1 (Frame:1).
+[2020.02.03-17.34.27:810][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.02.03-17.34.27:810][  0]LogLoad: (Engine Initialization) Total time: 7.02 seconds
+[2020.02.03-17.34.27:810][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.03-17.34.27:857][  0]LogAssetRegistry: Asset discovery search completed in 4.4266 seconds
+[2020.02.03-17.34.27:859][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2020.02.03-17.34.27:860][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.03-17.34.27:888][  0]LogSlate: Took 0.000102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.03-17.37.08:640][625]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.03-17.37.08:655][625]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.02.03-17.37.09:088][625]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 121 classes and 0 folders.
+[2020.02.03-17.37.10:273][625]LogSlate: Took 0.000399 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.03-17.37.10:564][626]LogSlate: Took 0.008554 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.03-17.40.59:609][265]LogSlate: Took 0.007594 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.02.03-17.44.15:165][834]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.02.03-17.44.15:364][834]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.02.03-17.44.46:087][634]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.02.03-17.44.46:271][634]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.02.03-17.44.57:886][301]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerPawn02ED75D04E49A0E708E3378561C83960.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2020.02.03-17.44.57:901][301]AssetCheck: New page: Asset Save: MotionControllerPawn
+[2020.02.03-17.44.57:901][301]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.02.03-17.45.43:552][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.02.03-17.45.43:737][ 15]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerMap_Auto1CE7DF9DE42627B734557DA9917F04CF4.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto1.umap'
+[2020.02.03-17.45.43:738][ 15]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.222
+[2020.02.03-17.45.43:739][ 15]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.222
+[2020.02.03-17.45.43:739][ 15]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn] ([1] browsable assets)...
+[2020.02.03-17.45.43:739][ 15]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn]
+[2020.02.03-17.45.43:784][ 15]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerPawn_Auto1C2AF2A6F43139D58F8D4C0AF452CDC26.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_Auto1.uasset'
+[2020.02.03-17.45.43:790][ 15]LogFileHelpers: Auto-saving content packages took 0.051
+[2020.02.03-17.46.35:259][ 89]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.02.03-17.46.35:446][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.02.03-17.46.47:138][780]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.02.03-17.46.47:326][780]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.02.03-17.46.55:000][229]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerPawnDAB8B0C142D13D1FA64BAD9F1EA2785B.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2020.02.03-17.46.55:014][229]AssetCheck: New page: Asset Save: MotionControllerPawn
+[2020.02.03-17.46.55:014][229]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.02.03-18.06.32:599][727]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.02.03-18.06.32:798][727]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerMap_Auto2118307F74A4FD4CEDEFBCEA455D7C6E0.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto2.umap'
+[2020.02.03-18.06.32:799][727]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.230
+[2020.02.03-18.06.32:799][727]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.230
+[2020.02.03-18.06.32:800][727]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn] ([1] browsable assets)...
+[2020.02.03-18.06.32:800][727]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn]
+[2020.02.03-18.06.32:847][727]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerPawn_Auto250AD395849E1BA7696FACCA985285981.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_Auto2.uasset'
+[2020.02.03-18.06.32:848][727]LogFileHelpers: Auto-saving content packages took 0.049
+[2020.02.03-19.24.17:367][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.02.03-19.24.17:368][560]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.032
+[2020.02.03-19.24.17:368][560]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn] ([1] browsable assets)...
+[2020.02.03-19.24.17:368][560]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn]
+[2020.02.03-19.24.17:416][560]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerPawn_Auto3F1E884634A159E7F1F4612BE4EF31498.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_Auto3.uasset'
+[2020.02.03-19.24.17:417][560]LogFileHelpers: Auto-saving content packages took 0.049
+[2020.02.03-19.32.36:275][414]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.02.03-19.32.36:468][414]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.02.03-19.32.42:087][743]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerPawn756096154622510D276D2C9A061F514B.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2020.02.03-19.32.42:102][743]AssetCheck: New page: Asset Save: MotionControllerPawn
+[2020.02.03-19.32.42:103][743]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.02.03-19.34.24:748][850]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.02.03-19.34.24:938][850]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerMap_Auto4FBCE59C746740CE3E18049A44BB13455.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto4.umap'
+[2020.02.03-19.34.24:940][850]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.226
+[2020.02.03-19.34.24:940][850]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.226
+[2020.02.03-19.34.24:940][850]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn] ([1] browsable assets)...
+[2020.02.03-19.34.24:940][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn]
+[2020.02.03-19.34.24:991][850]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerPawn_Auto4400D0C9542BD3737C0F044946250940B.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_Auto4.uasset'
+[2020.02.03-19.34.24:992][850]LogFileHelpers: Auto-saving content packages took 0.052
+[2020.02.03-19.45.14:957][644]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.02.03-19.45.14:958][644]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.032
+[2020.02.03-19.45.14:958][644]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn] ([1] browsable assets)...
+[2020.02.03-19.45.14:958][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn]
+[2020.02.03-19.45.15:011][644]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerPawn_Auto5601349CD4A05DE31042142B110FC8FC5.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_Auto5.uasset'
+[2020.02.03-19.45.15:012][644]LogFileHelpers: Auto-saving content packages took 0.054
+[2020.02.03-19.55.11:428][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.02.03-19.55.11:429][595]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.031
+[2020.02.03-19.55.11:430][595]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn] ([1] browsable assets)...
+[2020.02.03-19.55.11:430][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn]
+[2020.02.03-19.55.11:484][595]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerPawn_Auto60556D46245E771C50E38849A282DD261.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_Auto6.uasset'
+[2020.02.03-19.55.11:485][595]LogFileHelpers: Auto-saving content packages took 0.055
+[2020.02.03-20.05.20:816][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.02.03-20.05.20:817][713]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.028
+[2020.02.03-20.05.20:818][713]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn] ([1] browsable assets)...
+[2020.02.03-20.05.20:818][713]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn]
+[2020.02.03-20.05.20:873][713]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerPawn_Auto75323129F41B1BECA1432EC96D7F93C95.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_Auto7.uasset'
+[2020.02.03-20.05.20:874][713]LogFileHelpers: Auto-saving content packages took 0.056
+[2020.02.03-20.11.58:941][543]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.02.03-20.11.59:140][543]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.02.03-20.12.00:368][606]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerPawn922B8FB846218F6B51E93B8A195A9E79.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2020.02.03-20.12.00:384][606]AssetCheck: New page: Asset Save: MotionControllerPawn
+[2020.02.03-20.12.00:384][606]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.02.03-20.13.47:506][ 31]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.02.03-20.13.47:706][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.02.03-20.13.48:918][ 95]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerPawnD958A59C48C55AD172A385AE230B69EE.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2020.02.03-20.13.48:932][ 95]AssetCheck: New page: Asset Save: MotionControllerPawn
+[2020.02.03-20.13.48:932][ 95]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.02.03-20.16.08:651][422]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.02.03-20.16.08:851][422]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.02.03-20.16.10:411][505]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerPawn1668881F4323E6CC946B7DB051DE4AE4.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2020.02.03-20.16.10:425][505]AssetCheck: New page: Asset Save: MotionControllerPawn
+[2020.02.03-20.16.10:425][505]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.02.03-20.16.13:074][659]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerPawnE79AC2A64B9A8E60575E3CB8FA2E0DCF.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2020.02.03-20.16.13:090][659]AssetCheck: New page: Asset Save: MotionControllerPawn
+[2020.02.03-20.16.13:090][659]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.02.03-20.16.14:503][744]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.02.03-20.16.14:696][744]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.02.03-20.16.15:941][809]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerPawn732B8D8742FE8F3085F87C81C3EBDD0B.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2020.02.03-20.16.15:956][809]AssetCheck: New page: Asset Save: MotionControllerPawn
+[2020.02.03-20.16.15:956][809]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.02.03-20.16.16:016][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.02.03-20.16.16:208][810]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerMap_Auto8B02FAFEF46F4E21236FD73BDF497EED7.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto8.umap'
+[2020.02.03-20.16.16:209][810]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.225
+[2020.02.03-20.16.16:209][810]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.225
+[2020.02.03-20.16.18:995][976]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.02.03-20.16.19:195][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.02.03-20.16.20:673][ 55]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerPawn76B930134E3849C23ED6A1B99FB4CB7F.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2020.02.03-20.16.20:686][ 55]AssetCheck: New page: Asset Save: MotionControllerPawn
+[2020.02.03-20.16.20:686][ 55]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.02.03-20.19.06:502][  4]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.02.03-20.19.06:706][  4]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.02.03-20.19.08:110][ 79]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerPawnBDEAE52F41E247A431A773B12F29CC23.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2020.02.03-20.19.08:125][ 79]AssetCheck: New page: Asset Save: MotionControllerPawn
+[2020.02.03-20.19.08:125][ 79]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.02.03-20.19.10:758][217]LogSlate: Window 'MotionControllerPawn' being destroyed
+[2020.02.03-20.19.10:773][217]LogSlate: Window 'MotionControllerPawn' being destroyed
+[2020.02.03-20.19.10:808][217]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-20.19.10:808][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-20.19.12:515][300]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.02.03-20.19.17:298][563]BlueprintLog: New page: Compile MotionControllerPawn
+[2020.02.03-20.19.17:530][563]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.02.03-20.19.19:621][679]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerPawnB5A27F5F4FFF67AF8072C283CDB7ABEF.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2020.02.03-20.19.19:634][679]AssetCheck: New page: Asset Save: MotionControllerPawn
+[2020.02.03-20.19.19:634][679]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.02.03-20.19.21:765][807]LogSlate: Window 'MotionControllerPawn' being destroyed
+[2020.02.03-20.19.21:771][807]LogSlate: Window 'MotionControllerPawn' being destroyed
+[2020.02.03-20.19.21:771][807]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-20.19.21:771][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-20.20.47:773][945]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube
+[2020.02.03-20.26.16:504][450]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.02.03-20.26.16:703][450]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerMap_Auto9DDB139024D5BE41F9710D18EF8EA5712.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto9.umap'
+[2020.02.03-20.26.16:705][450]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.240
+[2020.02.03-20.26.16:705][450]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.240
+[2020.02.03-20.26.16:705][450]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_ClimbableCube] ([1] browsable assets)...
+[2020.02.03-20.26.17:026][450]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube]
+[2020.02.03-20.26.17:026][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_ClimbableCube]
+[2020.02.03-20.26.17:064][450]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/BP_ClimbableCube_Auto9FFA6E83F461B2D0B1D8F8A9F86B6A01D.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_ClimbableCube_Auto9.uasset'
+[2020.02.03-20.26.17:065][450]LogFileHelpers: Auto-saving content packages took 0.360
+[2020.02.03-20.32.15:557][927]BlueprintLog: New page: Compile BP_ClimbableCube
+[2020.02.03-20.32.16:044][927]LogUObjectHash: Compacting FUObjectHashTables data took  13.12ms
+[2020.02.03-20.32.17:315][995]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/BP_ClimbableCube89DDB3CF40FE4B1FE15BA9B0A9B94D28.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/VirtualRealityBP/Blueprints/BP_ClimbableCube.uasset'
+[2020.02.03-20.32.17:339][995]AssetCheck: New page: Asset Save: BP_ClimbableCube
+[2020.02.03-20.32.17:339][995]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube
+[2020.02.03-20.32.18:332][ 53]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/BP_ClimbableCube051DE76C4E8DAC3AF4013BAC3CB0E666.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/VirtualRealityBP/Blueprints/BP_ClimbableCube.uasset'
+[2020.02.03-20.32.18:347][ 53]AssetCheck: New page: Asset Save: BP_ClimbableCube
+[2020.02.03-20.32.18:347][ 53]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube
+[2020.02.03-20.32.19:192][104]BlueprintLog: New page: Compile BP_ClimbableCube
+[2020.02.03-20.32.19:387][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.02.03-20.32.20:879][189]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/BP_ClimbableCube180DCC42441028DC081BC8986D14D84B.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/VirtualRealityBP/Blueprints/BP_ClimbableCube.uasset'
+[2020.02.03-20.32.20:892][189]AssetCheck: New page: Asset Save: BP_ClimbableCube
+[2020.02.03-20.32.20:892][189]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube
+[2020.02.03-20.33.14:640][349]BlueprintLog: New page: Compile BP_ClimbableCube
+[2020.02.03-20.33.14:842][349]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.02.03-20.33.15:980][412]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/BP_ClimbableCube836DB4EB4B4A0734EBFEF782C57FAC22.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/VirtualRealityBP/Blueprints/BP_ClimbableCube.uasset'
+[2020.02.03-20.33.15:990][412]AssetCheck: New page: Asset Save: BP_ClimbableCube
+[2020.02.03-20.33.15:991][412]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube
+[2020.02.03-20.36.17:352][181]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.02.03-20.36.17:552][181]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerMap_Auto0E2D8742F4A0132C96C7946BF6271BCFB.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto0.umap'
+[2020.02.03-20.36.17:554][181]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.239
+[2020.02.03-20.36.17:554][181]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.239
+[2020.02.03-20.36.17:554][181]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_ClimbableCube] ([1] browsable assets)...
+[2020.02.03-20.36.17:563][181]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube]
+[2020.02.03-20.36.17:563][181]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_ClimbableCube]
+[2020.02.03-20.36.17:578][181]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/BP_ClimbableCube_Auto0FAA10E6549EFE741DB50DDA76E38023D.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_ClimbableCube_Auto0.uasset'
+[2020.02.03-20.36.17:579][181]LogFileHelpers: Auto-saving content packages took 0.025
+[2020.02.03-20.46.17:770][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.02.03-20.46.17:772][ 85]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.033
+[2020.02.03-20.46.17:772][ 85]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_ClimbableCube] ([1] browsable assets)...
+[2020.02.03-20.46.17:781][ 85]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube]
+[2020.02.03-20.46.17:781][ 85]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_ClimbableCube]
+[2020.02.03-20.46.17:798][ 85]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/BP_ClimbableCube_Auto1B8B0F1FC40F4957CA35F38B0B68FAD19.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_ClimbableCube_Auto1.uasset'
+[2020.02.03-20.46.17:799][ 85]LogFileHelpers: Auto-saving content packages took 0.027
+[2020.02.03-20.49.41:712][271]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetSystemLibrary::IsValid' [The specified module could not be found.]
+[2020.02.03-20.56.18:002][  1]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.02.03-20.56.18:204][  1]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerMap_Auto25B4A555444C2F30122B74EA174A2BDE4.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto2.umap'
+[2020.02.03-20.56.18:205][  1]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.238
+[2020.02.03-20.56.18:205][  1]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.238
+[2020.02.03-20.56.18:206][  1]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_ClimbableCube] ([1] browsable assets)...
+[2020.02.03-20.56.18:214][  1]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube]
+[2020.02.03-20.56.18:215][  1]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_ClimbableCube]
+[2020.02.03-20.56.18:233][  1]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/BP_ClimbableCube_Auto2EB8D336549A0935C670057AA607110E6.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_ClimbableCube_Auto2.uasset'
+[2020.02.03-20.56.18:234][  1]LogFileHelpers: Auto-saving content packages took 0.029
+[2020.02.03-21.03.04:712][255]BlueprintLog: New page: Compile BP_ClimbableCube
+[2020.02.03-21.03.05:222][255]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.02.03-21.03.06:528][327]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/BP_ClimbableCube3B4475434BADF0BD29DA6CA1806ACAC4.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/VirtualRealityBP/Blueprints/BP_ClimbableCube.uasset'
+[2020.02.03-21.03.06:539][327]AssetCheck: New page: Asset Save: BP_ClimbableCube
+[2020.02.03-21.03.06:539][327]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube
+[2020.02.03-21.03.07:896][409]BlueprintLog: New page: Compile BP_ClimbableCube
+[2020.02.03-21.03.08:099][409]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.02.03-21.03.09:108][465]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/BP_ClimbableCube6807966F457A0D31FEEA3BB9F9FE9195.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/VirtualRealityBP/Blueprints/BP_ClimbableCube.uasset'
+[2020.02.03-21.03.09:119][465]AssetCheck: New page: Asset Save: BP_ClimbableCube
+[2020.02.03-21.03.09:119][465]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube
+[2020.02.03-21.06.18:482][773]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.02.03-21.06.18:679][773]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerMap_Auto392E019B940A65EF35C083CB2685C61B4.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto3.umap'
+[2020.02.03-21.06.18:680][773]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.235
+[2020.02.03-21.06.18:680][773]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.235
+[2020.02.03-21.06.18:681][773]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_ClimbableCube] ([1] browsable assets)...
+[2020.02.03-21.06.18:689][773]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube]
+[2020.02.03-21.06.18:689][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_ClimbableCube]
+[2020.02.03-21.06.18:710][773]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/BP_ClimbableCube_Auto329068E10452A1A7253983CB0CA2CFA29.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_ClimbableCube_Auto3.uasset'
+[2020.02.03-21.06.18:711][773]LogFileHelpers: Auto-saving content packages took 0.030
+[2020.02.03-21.16.18:889][670]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.02.03-21.16.18:890][670]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.033
+[2020.02.03-21.16.18:890][670]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_ClimbableCube] ([1] browsable assets)...
+[2020.02.03-21.16.18:899][670]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube]
+[2020.02.03-21.16.18:899][670]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_ClimbableCube]
+[2020.02.03-21.16.18:924][670]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/BP_ClimbableCube_Auto498642C4A4BBECA43D3E20CA4BFC6C7CF.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_ClimbableCube_Auto4.uasset'
+[2020.02.03-21.16.18:925][670]LogFileHelpers: Auto-saving content packages took 0.034
+[2020.02.03-21.24.40:508][671]BlueprintLog: New page: Compile BP_ClimbableCube
+[2020.02.03-21.24.40:715][671]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.02.03-21.24.41:896][736]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/BP_ClimbableCube302286DB4F30626E8635A2BC168C10A7.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/VirtualRealityBP/Blueprints/BP_ClimbableCube.uasset'
+[2020.02.03-21.24.41:907][736]AssetCheck: New page: Asset Save: BP_ClimbableCube
+[2020.02.03-21.24.41:907][736]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube
+[2020.02.03-21.25.33:410][803]BlueprintLog: New page: Compile BP_ClimbableCube
+[2020.02.03-21.25.33:617][803]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.02.03-21.25.34:666][860]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/BP_ClimbableCube5D5674664AE7B8BAC37AE5A1DB000673.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/VirtualRealityBP/Blueprints/BP_ClimbableCube.uasset'
+[2020.02.03-21.25.34:677][860]AssetCheck: New page: Asset Save: BP_ClimbableCube
+[2020.02.03-21.25.34:677][860]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube
+[2020.02.03-21.26.28:302][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.02.03-21.26.28:501][ 47]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerMap_Auto5EA61840047D940AAE53E8296F60F0E8D.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto5.umap'
+[2020.02.03-21.26.28:502][ 47]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.235
+[2020.02.03-21.26.28:502][ 47]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.235
+[2020.02.03-21.26.28:503][ 47]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_ClimbableCube] ([1] browsable assets)...
+[2020.02.03-21.26.28:510][ 47]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube]
+[2020.02.03-21.26.28:510][ 47]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_ClimbableCube]
+[2020.02.03-21.26.28:539][ 47]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/BP_ClimbableCube_Auto5A5DD171A4BE423F12761CE869FCB4D00.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_ClimbableCube_Auto5.uasset'
+[2020.02.03-21.26.28:545][ 47]LogFileHelpers: Auto-saving content packages took 0.043
+[2020.02.03-21.38.32:624][278]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.02.03-21.38.32:826][278]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerMap_Auto6B2482980476268835C0A6CAD0AEBFF35.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto6.umap'
+[2020.02.03-21.38.32:827][278]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.234
+[2020.02.03-21.38.32:827][278]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.234
+[2020.02.03-21.38.32:828][278]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_ClimbableCube] ([1] browsable assets)...
+[2020.02.03-21.38.32:837][278]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube]
+[2020.02.03-21.38.32:837][278]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_ClimbableCube]
+[2020.02.03-21.38.32:878][278]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/BP_ClimbableCube_Auto654DB222D476100A1C92248BF51131CA8.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_ClimbableCube_Auto6.uasset'
+[2020.02.03-21.38.32:879][278]LogFileHelpers: Auto-saving content packages took 0.051
+[2020.02.03-21.38.53:362][503]BlueprintLog: New page: Compile BP_ClimbableCube
+[2020.02.03-21.38.53:574][503]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.02.03-21.38.54:798][568]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/BP_ClimbableCubeC9348D2D4093D035F88A708E17338DF7.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/VirtualRealityBP/Blueprints/BP_ClimbableCube.uasset'
+[2020.02.03-21.38.54:809][568]AssetCheck: New page: Asset Save: BP_ClimbableCube
+[2020.02.03-21.38.54:809][568]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube
+[2020.02.03-21.39.40:667][319]BlueprintLog: New page: Compile BP_ClimbableCube
+[2020.02.03-21.39.40:875][319]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.02.03-21.39.41:862][371]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/BP_ClimbableCube4936510D421B0B5C4BC6C99084DC7F8E.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/VirtualRealityBP/Blueprints/BP_ClimbableCube.uasset'
+[2020.02.03-21.39.41:873][371]AssetCheck: New page: Asset Save: BP_ClimbableCube
+[2020.02.03-21.39.41:873][371]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube
+[2020.02.03-21.39.49:151][805]BlueprintLog: New page: Compile BP_ClimbableCube
+[2020.02.03-21.39.49:361][805]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.02.03-21.39.50:210][848]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/BP_ClimbableCube282F6A184B0C4227BD6FBDBB3A669E22.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/VirtualRealityBP/Blueprints/BP_ClimbableCube.uasset'
+[2020.02.03-21.39.50:221][848]AssetCheck: New page: Asset Save: BP_ClimbableCube
+[2020.02.03-21.39.50:221][848]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube
+[2020.02.03-21.39.52:319][974]BlueprintLog: New page: Compile BP_ClimbableCube
+[2020.02.03-21.39.52:530][974]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.02.03-21.39.53:592][ 30]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/BP_ClimbableCube162CA6F44B365B983813BB949F712434.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/VirtualRealityBP/Blueprints/BP_ClimbableCube.uasset'
+[2020.02.03-21.39.53:604][ 30]AssetCheck: New page: Asset Save: BP_ClimbableCube
+[2020.02.03-21.39.53:604][ 30]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube
+[2020.02.03-21.39.58:079][298]BlueprintLog: New page: Compile BP_ClimbableCube
+[2020.02.03-21.39.58:287][298]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.02.03-21.39.59:588][369]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/BP_ClimbableCube2EAA80A04FEBE3948C594FBC470F29A7.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/VirtualRealityBP/Blueprints/BP_ClimbableCube.uasset'
+[2020.02.03-21.39.59:599][369]AssetCheck: New page: Asset Save: BP_ClimbableCube
+[2020.02.03-21.39.59:599][369]LogContentValidation: Display: Validating Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube
+[2020.02.03-21.40.01:880][505]LogSlate: Window 'BP_ClimbableCube' being destroyed
+[2020.02.03-21.40.01:884][505]LogSlate: Window 'BP_ClimbableCube' being destroyed
+[2020.02.03-21.40.01:885][505]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-21.40.01:885][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-21.40.19:888][543]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2020.02.03-21.40.20:086][543]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerMap782C03234CD83A8123AAEE9F90D62CF8.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2020.02.03-21.40.20:356][543]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerMap_BuiltData1C4E8FD84444B565B79795A6515E6331.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset'
+[2020.02.03-21.40.20:385][543]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.03-21.40.20:385][543]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
+[2020.02.03-21.40.20:385][543]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.MotionControllerMap_BuiltData
+[2020.02.03-21.40.21:764][623]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.02.03-21.40.21:955][623]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerMap4C64DB4B40C0A8B51585449D0AD73E2B.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2020.02.03-21.40.22:053][623]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerMap_BuiltData34CDEFEA41AF3B6D076ED59FE91CFB1C.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset'
+[2020.02.03-21.40.22:068][623]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.03-21.40.22:068][623]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
+[2020.02.03-21.40.22:068][623]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.MotionControllerMap_BuiltData
+[2020.02.03-21.43.36:143][852]LogSlate: Window 'Message' being destroyed
+[2020.02.03-21.43.36:148][852]LogSlate: Window 'Save Level As' being destroyed
+[2020.02.03-21.43.36:340][852]LogAIModule: Creating AISystem for world MotionControllerMap
+[2020.02.03-21.43.36:353][852]LogObjectTools: Deleting 1 worlds: /Game/MotionControllerMap.MotionControllerMap
+[2020.02.03-21.43.36:353][852]LogObjectTools: Currently 4 active worlds: /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2
+[2020.02.03-21.43.36:384][852]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.02.03-21.43.36:573][852]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-21.43.36:590][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-21.43.36:699][852]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.02.03-21.43.36:743][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.02.03-21.43.36:772][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.02.03-21.43.36:848][852]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.02.03-21.43.36:998][852]LogAIModule: Creating AISystem for world MotionControllerMap
+[2020.02.03-21.43.37:011][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MotionControllerMap" FILE="C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/MotionControllerMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.03-21.43.37:055][852]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.02.03-21.43.37:244][852]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerMap1CC8F88841491A0C6ABA34ACBA471823.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/MotionControllerMap.umap'
+[2020.02.03-21.43.37:259][852]LogFileHelpers: Saving map 'MotionControllerMap' took 1.003
+[2020.02.03-21.43.37:260][852]Cmd: MAP LOAD FILE="C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.03-21.43.37:283][852]LightingResults: New page: Lighting Build
+[2020.02.03-21.43.37:284][852]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2020.02.03-21.43.37:284][852]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-21.43.37:284][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-21.43.37:285][852]MapCheck: New page: Map Check
+[2020.02.03-21.43.37:285][852]LightingResults: New page: Lighting Build
+[2020.02.03-21.43.37:406][852]LogUObjectHash: Compacting FUObjectHashTables data took   9.72ms
+[2020.02.03-21.43.37:447][852]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.03-21.43.37:477][852]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.02.03-21.43.37:504][852]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.03-21.43.37:504][852]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.127ms to complete.
+[2020.02.03-21.43.37:504][852]LogFileHelpers: Loading map 'MotionControllerMap' took 0.246
+[2020.02.03-21.43.37:525][852]AssetCheck: New page: Asset Save: MotionControllerMap
+[2020.02.03-21.43.37:525][852]LogContentValidation: Display: Validating World /Game/MotionControllerMap.MotionControllerMap
+[2020.02.03-21.43.40:617][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MotionControllerMap" FILE="C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/MotionControllerMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.03-21.43.40:643][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.02.03-21.43.40:833][ 29]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerMap897A0C32462B63B3AD400EA43197415D.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/MotionControllerMap.umap'
+[2020.02.03-21.43.40:854][ 29]AssetCheck: New page: Asset Save: MotionControllerMap
+[2020.02.03-21.43.40:854][ 29]LogContentValidation: Display: Validating World /Game/MotionControllerMap.MotionControllerMap
+[2020.02.03-21.44.00:998][  0]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.03-21.44.01:001][  0]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.03-21.44.16:649][280]LogSlate: Window 'Message' being destroyed
+[2020.02.03-21.44.16:654][280]LogSlate: Window 'Save Level As' being destroyed
+[2020.02.03-21.44.16:673][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MotionControllerMap" FILE="C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/MotionControllerMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.03-21.44.17:025][280]LogUObjectHash: Compacting FUObjectHashTables data took  14.20ms
+[2020.02.03-21.44.17:241][280]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerMap5012562947525E63016ED2BC002DB6F6.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/MotionControllerMap.umap'
+[2020.02.03-21.44.17:256][280]LogFileHelpers: Saving map 'MotionControllerMap' took 0.597
+[2020.02.03-21.44.17:257][280]Cmd: MAP LOAD FILE="C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.03-21.44.17:276][280]LightingResults: New page: Lighting Build
+[2020.02.03-21.44.17:277][280]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2020.02.03-21.44.17:277][280]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-21.44.17:277][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-21.44.17:277][280]MapCheck: New page: Map Check
+[2020.02.03-21.44.17:278][280]LightingResults: New page: Lighting Build
+[2020.02.03-21.44.17:436][280]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.02.03-21.44.17:462][280]LogAIModule: Creating AISystem for world MotionControllerMap
+[2020.02.03-21.44.17:475][280]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.03-21.44.17:506][280]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.02.03-21.44.17:522][280]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.03-21.44.17:522][280]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.12ms to complete.
+[2020.02.03-21.44.17:522][280]LogFileHelpers: Loading map 'MotionControllerMap' took 0.266
+[2020.02.03-21.44.17:527][280]AssetCheck: New page: Asset Save: MotionControllerMap
+[2020.02.03-21.44.17:527][280]LogContentValidation: Display: Validating World /Game/MotionControllerMap.MotionControllerMap
+[2020.02.03-21.44.21:737][521]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.02.03-21.44.36:802][394]LogSlate: Window 'MotionControllerPawn' being destroyed
+[2020.02.03-21.44.36:809][394]LogSlate: Window 'MotionControllerPawn' being destroyed
+[2020.02.03-21.44.36:810][394]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-21.44.36:810][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-21.44.38:816][504]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.02.03-21.44.51:934][268]LogSlate: Window 'MotionControllerPawn' being destroyed
+[2020.02.03-21.44.51:941][268]LogSlate: Window 'MotionControllerPawn' being destroyed
+[2020.02.03-21.44.51:942][268]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-21.44.51:942][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-21.44.55:495][457]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube
+[2020.02.03-21.44.59:516][669]LogSlate: Window 'BP_ClimbableCube' being destroyed
+[2020.02.03-21.44.59:522][669]LogSlate: Window 'BP_ClimbableCube' being destroyed
+[2020.02.03-21.44.59:528][669]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-21.44.59:528][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-21.45.03:528][903]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/ClimbActorInterface.ClimbActorInterface
+[2020.02.03-21.45.12:638][409]LogSlate: Window 'ClimbActorInterface' being destroyed
+[2020.02.03-21.45.12:645][409]LogSlate: Window 'ClimbActorInterface' being destroyed
+[2020.02.03-21.45.12:647][409]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-21.45.12:647][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-21.45.14:923][542]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/ClimbActorInterface.ClimbActorInterface
+[2020.02.03-21.45.17:453][675]LogSlate: Window 'ClimbActorInterface' being destroyed
+[2020.02.03-21.45.17:461][675]LogSlate: Window 'ClimbActorInterface' being destroyed
+[2020.02.03-21.45.17:461][675]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-21.45.17:461][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-21.45.28:411][304]LogAssetEditorSubsystem: Opening Asset editor for HapticFeedbackEffect_Curve /Game/VirtualRealityBP/Blueprints/MotionControllerHaptics.MotionControllerHaptics
+[2020.02.03-21.45.31:096][438]LogSlate: Window 'MotionControllerHaptics' being destroyed
+[2020.02.03-21.45.31:103][438]LogSlate: Window 'MotionControllerHaptics' being destroyed
+[2020.02.03-21.45.32:801][536]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.02.03-21.45.35:289][661]LogSlate: Window 'MotionControllerPawn' being destroyed
+[2020.02.03-21.45.35:296][661]LogSlate: Window 'MotionControllerPawn' being destroyed
+[2020.02.03-21.45.35:298][661]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-21.45.35:298][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-21.45.36:883][751]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/PickupActorInterface.PickupActorInterface
+[2020.02.03-21.45.39:717][904]LogSlate: Window 'PickupActorInterface' being destroyed
+[2020.02.03-21.45.39:724][904]LogSlate: Window 'PickupActorInterface' being destroyed
+[2020.02.03-21.45.39:730][904]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-21.45.39:730][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-21.45.46:521][304]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube
+[2020.02.03-21.45.50:748][535]LogSlate: Window 'BP_ClimbableCube' being destroyed
+[2020.02.03-21.45.50:755][535]LogSlate: Window 'BP_ClimbableCube' being destroyed
+[2020.02.03-21.45.50:756][535]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-21.45.50:756][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-21.45.53:961][722]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube
+[2020.02.03-21.45.58:495][951]LogSlate: Window 'BP_PickupCube' being destroyed
+[2020.02.03-21.45.58:501][951]LogSlate: Window 'BP_PickupCube' being destroyed
+[2020.02.03-21.45.58:507][951]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-21.45.58:507][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-21.46.02:295][174]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2020.02.03-21.46.06:758][394]LogSlate: Window 'BP_MotionController' being destroyed
+[2020.02.03-21.46.06:765][394]LogSlate: Window 'BP_MotionController' being destroyed
+[2020.02.03-21.46.06:830][394]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-21.46.06:830][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-21.46.08:976][511]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn
+[2020.02.03-21.46.12:788][711]LogSlate: Window 'HMDLocomotionPawn' being destroyed
+[2020.02.03-21.46.12:795][711]LogSlate: Window 'HMDLocomotionPawn' being destroyed
+[2020.02.03-21.46.12:801][711]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-21.46.12:801][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-21.46.15:006][839]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.02.03-21.46.21:752][205]LogSlate: Window 'MotionControllerPawn' being destroyed
+[2020.02.03-21.46.21:760][205]LogSlate: Window 'MotionControllerPawn' being destroyed
+[2020.02.03-21.46.21:760][205]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-21.46.21:760][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-21.46.23:836][325]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/PickupActorInterface.PickupActorInterface
+[2020.02.03-21.46.28:050][560]LogSlate: Window 'PickupActorInterface' being destroyed
+[2020.02.03-21.46.28:056][560]LogSlate: Window 'PickupActorInterface' being destroyed
+[2020.02.03-21.46.28:057][560]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-21.46.28:057][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-21.46.36:116][ 30]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.02.03-21.46.38:332][136]LogSlate: Window 'MotionControllerPawn' being destroyed
+[2020.02.03-21.46.38:339][136]LogSlate: Window 'MotionControllerPawn' being destroyed
+[2020.02.03-21.46.38:340][136]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-21.46.38:340][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-21.46.42:614][387]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/ClimbActorInterface.ClimbActorInterface
+[2020.02.03-21.46.44:856][503]LogSlate: Window 'ClimbActorInterface' being destroyed
+[2020.02.03-21.46.44:863][503]LogSlate: Window 'ClimbActorInterface' being destroyed
+[2020.02.03-21.46.44:864][503]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-21.46.44:864][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-21.46.46:815][616]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/VirtualRealityBP/Blueprints/GripEnum.GripEnum
+[2020.02.03-21.46.49:280][737]LogSlate: Window 'GripEnum' being destroyed
+[2020.02.03-21.46.49:287][737]LogSlate: Window 'GripEnum' being destroyed
+[2020.02.03-21.46.51:844][886]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn
+[2020.02.03-21.46.54:611][ 26]LogSlate: Window 'HMDLocomotionPawn' being destroyed
+[2020.02.03-21.46.54:618][ 26]LogSlate: Window 'HMDLocomotionPawn' being destroyed
+[2020.02.03-21.46.54:620][ 26]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-21.46.54:620][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-21.46.56:827][154]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube
+[2020.02.03-21.46.59:077][267]LogSlate: Window 'BP_PickupCube' being destroyed
+[2020.02.03-21.46.59:084][267]LogSlate: Window 'BP_PickupCube' being destroyed
+[2020.02.03-21.46.59:085][267]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-21.46.59:085][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-21.47.01:292][395]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2020.02.03-21.47.05:476][601]LogSlate: Window 'BP_MotionController' being destroyed
+[2020.02.03-21.47.05:483][601]LogSlate: Window 'BP_MotionController' being destroyed
+[2020.02.03-21.47.05:484][601]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-21.47.05:484][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-21.47.07:706][730]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_ClimbableCube.BP_ClimbableCube
+[2020.02.03-21.47.15:411][170]LogSlate: Window 'BP_ClimbableCube' being destroyed
+[2020.02.03-21.47.15:418][170]LogSlate: Window 'BP_ClimbableCube' being destroyed
+[2020.02.03-21.47.15:419][170]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-21.47.15:419][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-21.47.26:836][427]LogSlate: Window 'Message' being destroyed
+[2020.02.03-21.47.26:842][427]LogSlate: Window 'Save Level As' being destroyed
+[2020.02.03-21.47.26:869][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MotionControllerMap" FILE="C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/MotionControllerMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.03-21.47.27:239][427]LogUObjectHash: Compacting FUObjectHashTables data took   6.35ms
+[2020.02.03-21.47.27:434][427]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Saved/MotionControllerMapB4467BBE4722D8F1397E138BDFC9BE24.tmp' to 'C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/MotionControllerMap.umap'
+[2020.02.03-21.47.27:451][427]LogFileHelpers: Saving map 'MotionControllerMap' took 0.605
+[2020.02.03-21.47.27:453][427]Cmd: MAP LOAD FILE="C:/Users/raybr/OneDrive/Documents/Unreal Projects/VRTest1/Content/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.03-21.47.27:468][427]LightingResults: New page: Lighting Build
+[2020.02.03-21.47.27:468][427]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2020.02.03-21.47.27:469][427]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-21.47.27:469][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.03-21.47.27:469][427]MapCheck: New page: Map Check
+[2020.02.03-21.47.27:469][427]LightingResults: New page: Lighting Build
+[2020.02.03-21.47.27:500][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.02.03-21.47.27:519][427]LogAIModule: Creating AISystem for world MotionControllerMap
+[2020.02.03-21.47.27:531][427]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.03-21.47.27:566][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.02.03-21.47.27:581][427]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.03-21.47.27:581][427]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.126ms to complete.
+[2020.02.03-21.47.27:581][427]LogFileHelpers: Loading map 'MotionControllerMap' took 0.129
+[2020.02.03-21.47.27:586][427]AssetCheck: New page: Asset Save: MotionControllerMap
+[2020.02.03-21.47.27:586][427]LogContentValidation: Display: Validating World /Game/MotionControllerMap.MotionControllerMap
+[2020.02.03-21.47.28:976][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.02.03-21.47.29:136][506]LogSlate: Window 'VRTest1 - Unreal Editor' being destroyed
+[2020.02.03-21.47.29:330][507]Cmd: QUIT_EDITOR
+[2020.02.03-21.47.29:330][507]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.02.03-21.47.29:365][507]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.02.03-21.47.29:374][507]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.03-21.47.29:668][507]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.03-21.47.29:694][507]LogExit: Preparing to exit.
+[2020.02.03-21.47.31:143][507]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-21.47.31:145][507]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-21.47.31:147][507]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-21.47.31:149][507]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-21.47.31:150][507]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-21.47.31:266][507]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.02.03-21.47.31:429][507]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.03-21.47.31:429][507]LogExit: Editor shut down
+[2020.02.03-21.47.31:429][507]LogExit: Transaction tracking system shut down
+[2020.02.03-21.47.35:091][507]LogExit: Object subsystem successfully closed.
+[2020.02.03-21.47.35:420][507]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.02.03-21.47.37:322][507]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (700)
+[2020.02.03-21.47.37:322][507]LogModuleManager: Shutting down and abandoning module BlueprintGraph (698)
+[2020.02.03-21.47.37:322][507]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (696)
+[2020.02.03-21.47.37:322][507]LogModuleManager: Shutting down and abandoning module SceneOutliner (694)
+[2020.02.03-21.47.37:322][507]LogModuleManager: Shutting down and abandoning module AddContentDialog (692)
+[2020.02.03-21.47.37:339][507]LogModuleManager: Shutting down and abandoning module WidgetCarousel (691)
+[2020.02.03-21.47.37:340][507]LogModuleManager: Shutting down and abandoning module EditorWidgets (688)
+[2020.02.03-21.47.37:340][507]LogModuleManager: Shutting down and abandoning module CollectionManager (686)
+[2020.02.03-21.47.37:359][507]LogModuleManager: Shutting down and abandoning module StatsViewer (684)
+[2020.02.03-21.47.37:374][507]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (682)
+[2020.02.03-21.47.37:392][507]LogModuleManager: Shutting down and abandoning module FoliageEdit (680)
+[2020.02.03-21.47.37:410][507]LogModuleManager: Shutting down and abandoning module LandscapeEditor (678)
+[2020.02.03-21.47.37:474][507]LogModuleManager: Shutting down and abandoning module MeshPaintMode (676)
+[2020.02.03-21.47.37:474][507]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (674)
+[2020.02.03-21.47.37:474][507]LogModuleManager: Shutting down and abandoning module ActorPickerMode (672)
+[2020.02.03-21.47.37:474][507]LogModuleManager: Shutting down and abandoning module GeometryMode (670)
+[2020.02.03-21.47.37:474][507]LogModuleManager: Shutting down and abandoning module TextureAlignMode (668)
+[2020.02.03-21.47.37:474][507]LogModuleManager: Shutting down and abandoning module BspMode (666)
+[2020.02.03-21.47.37:474][507]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (664)
+[2020.02.03-21.47.37:502][507]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (662)
+[2020.02.03-21.47.37:509][507]LogModuleManager: Shutting down and abandoning module AutomationWorker (660)
+[2020.02.03-21.47.37:513][507]LogModuleManager: Shutting down and abandoning module SteamVREditor (658)
+[2020.02.03-21.47.37:514][507]LogModuleManager: Shutting down and abandoning module OculusMR (656)
+[2020.02.03-21.47.37:536][507]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (654)
+[2020.02.03-21.47.37:549][507]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (652)
+[2020.02.03-21.47.37:570][507]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (650)
+[2020.02.03-21.47.37:648][507]LogModuleManager: Shutting down and abandoning module PlacementMode (649)
+[2020.02.03-21.47.37:648][507]LogModuleManager: Shutting down and abandoning module MaterialEditor (648)
+[2020.02.03-21.47.37:705][507]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (644)
+[2020.02.03-21.47.37:714][507]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (642)
+[2020.02.03-21.47.37:714][507]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (640)
+[2020.02.03-21.47.37:714][507]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (638)
+[2020.02.03-21.47.37:714][507]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (636)
+[2020.02.03-21.47.37:714][507]LogModuleManager: Shutting down and abandoning module WebMMedia (634)
+[2020.02.03-21.47.37:735][507]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (632)
+[2020.02.03-21.47.37:778][507]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (630)
+[2020.02.03-21.47.37:802][507]LogModuleManager: Shutting down and abandoning module SequenceRecorder (629)
+[2020.02.03-21.47.37:802][507]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (626)
+[2020.02.03-21.47.37:802][507]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (624)
+[2020.02.03-21.47.37:802][507]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (622)
+[2020.02.03-21.47.37:802][507]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (620)
+[2020.02.03-21.47.37:802][507]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (618)
+[2020.02.03-21.47.37:802][507]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (616)
+[2020.02.03-21.47.37:802][507]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (614)
+[2020.02.03-21.47.37:802][507]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (612)
+[2020.02.03-21.47.37:802][507]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (610)
+[2020.02.03-21.47.37:802][507]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (608)
+[2020.02.03-21.47.37:802][507]LogModuleManager: Shutting down and abandoning module CharacterAI (606)
+[2020.02.03-21.47.37:802][507]LogModuleManager: Shutting down and abandoning module SmartSnapping (604)
+[2020.02.03-21.47.37:802][507]LogModuleManager: Shutting down and abandoning module SessionServices (602)
+[2020.02.03-21.47.37:802][507]LogModuleManager: Shutting down and abandoning module MeshPaint (600)
+[2020.02.03-21.47.37:838][507]LogModuleManager: Shutting down and abandoning module ViewportSnapping (598)
+[2020.02.03-21.47.37:839][507]LogModuleManager: Shutting down and abandoning module ViewportInteraction (596)
+[2020.02.03-21.47.37:839][507]LogModuleManager: Shutting down and abandoning module ClothPainter (594)
+[2020.02.03-21.47.37:885][507]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (593)
+[2020.02.03-21.47.37:913][507]LogModuleManager: Shutting down and abandoning module LogVisualizer (590)
+[2020.02.03-21.47.37:954][507]LogModuleManager: Shutting down and abandoning module IntroTutorials (588)
+[2020.02.03-21.47.37:992][507]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (587)
+[2020.02.03-21.47.38:011][507]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (584)
+[2020.02.03-21.47.38:011][507]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (582)
+[2020.02.03-21.47.38:011][507]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (580)
+[2020.02.03-21.47.38:012][507]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (579)
+[2020.02.03-21.47.39:116][507]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (576)
+[2020.02.03-21.47.39:116][507]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (574)
+[2020.02.03-21.47.39:116][507]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (572)
+[2020.02.03-21.47.39:116][507]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (570)
+[2020.02.03-21.47.39:116][507]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (568)
+[2020.02.03-21.47.39:116][507]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (566)
+[2020.02.03-21.47.39:116][507]LogModuleManager: Shutting down and abandoning module InputBindingEditor (564)
+[2020.02.03-21.47.39:297][507]LogModuleManager: Shutting down and abandoning module MergeActors (562)
+[2020.02.03-21.47.39:313][507]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (560)
+[2020.02.03-21.47.39:326][507]LogModuleManager: Shutting down and abandoning module LocalizationService (559)
+[2020.02.03-21.47.39:330][507]LogModuleManager: Shutting down and abandoning module HardwareTargeting (556)
+[2020.02.03-21.47.39:330][507]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (554)
+[2020.02.03-21.47.39:330][507]LogModuleManager: Shutting down and abandoning module UndoHistory (552)
+[2020.02.03-21.47.39:337][507]LogModuleManager: Shutting down and abandoning module XmlParser (550)
+[2020.02.03-21.47.39:344][507]LogModuleManager: Shutting down and abandoning module Blutility (548)
+[2020.02.03-21.47.39:344][507]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (546)
+[2020.02.03-21.47.39:344][507]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (545)
+[2020.02.03-21.47.39:345][507]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (542)
+[2020.02.03-21.47.39:345][507]LogModuleManager: Shutting down and abandoning module SettingsEditor (540)
+[2020.02.03-21.47.39:373][507]LogModuleManager: Shutting down and abandoning module ProjectLauncher (538)
+[2020.02.03-21.47.39:400][507]LogModuleManager: Shutting down and abandoning module SessionFrontend (536)
+[2020.02.03-21.47.39:415][507]LogModuleManager: Shutting down and abandoning module ProfilerClient (534)
+[2020.02.03-21.47.39:433][507]LogModuleManager: Shutting down and abandoning module DeviceManager (532)
+[2020.02.03-21.47.39:455][507]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (531)
+[2020.02.03-21.47.39:487][507]LogModuleManager: Shutting down and abandoning module AutomationController (528)
+[2020.02.03-21.47.39:498][507]LogModuleManager: Shutting down and abandoning module AutomationWindow (526)
+[2020.02.03-21.47.39:519][507]LogModuleManager: Shutting down and abandoning module Layers (524)
+[2020.02.03-21.47.39:572][507]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (522)
+[2020.02.03-21.47.39:572][507]LogModuleManager: Shutting down and abandoning module DetailCustomizations (520)
+[2020.02.03-21.47.39:572][507]LogModuleManager: Shutting down and abandoning module PackagesDialog (518)
+[2020.02.03-21.47.39:574][507]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (516)
+[2020.02.03-21.47.39:603][507]LogModuleManager: Shutting down and abandoning module Persona (514)
+[2020.02.03-21.47.39:636][507]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (513)
+[2020.02.03-21.47.39:636][507]LogModuleManager: Shutting down and abandoning module AnimGraph (511)
+[2020.02.03-21.47.39:645][507]LogModuleManager: Shutting down and abandoning module Kismet (508)
+[2020.02.03-21.47.39:665][507]LogModuleManager: Shutting down and abandoning module KismetWidgets (507)
+[2020.02.03-21.47.39:665][507]LogModuleManager: Shutting down and abandoning module GraphEditor (504)
+[2020.02.03-21.47.39:665][507]LogModuleManager: Shutting down and abandoning module StructViewer (502)
+[2020.02.03-21.47.39:665][507]LogModuleManager: Shutting down and abandoning module ClassViewer (500)
+[2020.02.03-21.47.39:666][507]LogModuleManager: Shutting down and abandoning module Toolbox (498)
+[2020.02.03-21.47.39:666][507]LogModuleManager: Shutting down and abandoning module ModuleUI (496)
+[2020.02.03-21.47.39:671][507]LogModuleManager: Shutting down and abandoning module OutputLog (494)
+[2020.02.03-21.47.39:757][507]LogModuleManager: Shutting down and abandoning module GammaUI (492)
+[2020.02.03-21.47.39:780][507]LogModuleManager: Shutting down and abandoning module Documentation (490)
+[2020.02.03-21.47.39:781][507]LogModuleManager: Shutting down and abandoning module ToolMenus (488)
+[2020.02.03-21.47.39:781][507]LogModuleManager: Shutting down and abandoning module LiveCoding (486)
+[2020.02.03-21.47.39:796][507]LogModuleManager: Shutting down and abandoning module LevelSequence (484)
+[2020.02.03-21.47.39:797][507]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (482)
+[2020.02.03-21.47.39:797][507]LogModuleManager: Shutting down and abandoning module MovieScene (480)
+[2020.02.03-21.47.39:808][507]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (478)
+[2020.02.03-21.47.39:825][507]LogModuleManager: Shutting down and abandoning module LauncherPlatform (476)
+[2020.02.03-21.47.39:826][507]LogModuleManager: Shutting down and abandoning module AnalyticsET (474)
+[2020.02.03-21.47.39:826][507]LogModuleManager: Shutting down and abandoning module PortalServices (472)
+[2020.02.03-21.47.39:826][507]LogModuleManager: Shutting down and abandoning module PortalRpc (470)
+[2020.02.03-21.47.39:826][507]LogModuleManager: Shutting down and abandoning module MessagingRpc (468)
+[2020.02.03-21.47.39:826][507]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (466)
+[2020.02.03-21.47.39:826][507]LogModuleManager: Shutting down and abandoning module AIModule (464)
+[2020.02.03-21.47.39:846][507]LogModuleManager: Shutting down and abandoning module GameplayDebugger (463)
+[2020.02.03-21.47.39:865][507]LogModuleManager: Shutting down and abandoning module AITestSuite (461)
+[2020.02.03-21.47.39:865][507]LogModuleManager: Shutting down and abandoning module NavigationSystem (459)
+[2020.02.03-21.47.39:865][507]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (456)
+[2020.02.03-21.47.39:877][507]LogModuleManager: Shutting down and abandoning module ProfilerService (454)
+[2020.02.03-21.47.39:928][507]LogModuleManager: Shutting down and abandoning module TaskGraph (452)
+[2020.02.03-21.47.39:945][507]LogModuleManager: Shutting down and abandoning module ScreenshotTools (450)
+[2020.02.03-21.47.39:945][507]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (448)
+[2020.02.03-21.47.39:945][507]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (446)
+[2020.02.03-21.47.39:945][507]LogModuleManager: Shutting down and abandoning module OculusEditor (444)
+[2020.02.03-21.47.39:955][507]LogModuleManager: Shutting down and abandoning module OculusInput (442)
+[2020.02.03-21.47.39:955][507]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (440)
+[2020.02.03-21.47.39:955][507]LogModuleManager: Shutting down and abandoning module EditableMesh (438)
+[2020.02.03-21.47.39:964][507]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (436)
+[2020.02.03-21.47.39:964][507]LogModuleManager: Shutting down and abandoning module CableComponent (434)
+[2020.02.03-21.47.39:964][507]LogModuleManager: Shutting down and abandoning module AudioCapture (432)
+[2020.02.03-21.47.39:964][507]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (431)
+[2020.02.03-21.47.39:964][507]LogModuleManager: Shutting down and abandoning module AssetTags (428)
+[2020.02.03-21.47.39:964][507]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (426)
+[2020.02.03-21.47.39:964][507]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (424)
+[2020.02.03-21.47.39:964][507]LogModuleManager: Shutting down and abandoning module AppleImageUtils (422)
+[2020.02.03-21.47.39:964][507]LogModuleManager: Shutting down and abandoning module AndroidPermission (420)
+[2020.02.03-21.47.39:964][507]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (418)
+[2020.02.03-21.47.39:974][507]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (416)
+[2020.02.03-21.47.40:002][507]LogModuleManager: Shutting down and abandoning module MediaCompositing (414)
+[2020.02.03-21.47.40:002][507]LogModuleManager: Shutting down and abandoning module ImgMedia (412)
+[2020.02.03-21.47.40:002][507]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (410)
+[2020.02.03-21.47.40:002][507]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (408)
+[2020.02.03-21.47.40:002][507]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (406)
+[2020.02.03-21.47.40:002][507]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (404)
+[2020.02.03-21.47.40:002][507]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (402)
+[2020.02.03-21.47.40:002][507]LogModuleManager: Shutting down and abandoning module BackChannel (400)
+[2020.02.03-21.47.40:019][507]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (398)
+[2020.02.03-21.47.40:019][507]LogModuleManager: Shutting down and abandoning module AutomationUtils (396)
+[2020.02.03-21.47.40:019][507]LogModuleManager: Shutting down and abandoning module AlembicImporter (394)
+[2020.02.03-21.47.40:042][507]LogModuleManager: Shutting down and abandoning module AlembicLibrary (393)
+[2020.02.03-21.47.40:047][507]LogModuleManager: Shutting down and abandoning module GeometryCache (392)
+[2020.02.03-21.47.40:047][507]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (391)
+[2020.02.03-21.47.40:047][507]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (386)
+[2020.02.03-21.47.40:058][507]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (384)
+[2020.02.03-21.47.40:080][507]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (382)
+[2020.02.03-21.47.40:080][507]LogModuleManager: Shutting down and abandoning module PluginBrowser (380)
+[2020.02.03-21.47.40:162][507]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (378)
+[2020.02.03-21.47.40:170][507]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (376)
+[2020.02.03-21.47.40:184][507]LogModuleManager: Shutting down and abandoning module CurveEditorTools (374)
+[2020.02.03-21.47.40:222][507]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (372)
+[2020.02.03-21.47.40:222][507]LogModuleManager: Shutting down and abandoning module CryptoKeys (370)
+[2020.02.03-21.47.40:222][507]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (368)
+[2020.02.03-21.47.40:222][507]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (366)
+[2020.02.03-21.47.40:222][507]LogModuleManager: Shutting down and abandoning module UObjectPlugin (364)
+[2020.02.03-21.47.40:222][507]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (362)
+[2020.02.03-21.47.40:250][507]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (360)
+[2020.02.03-21.47.40:266][507]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (358)
+[2020.02.03-21.47.40:285][507]LogModuleManager: Shutting down and abandoning module GitSourceControl (356)
+[2020.02.03-21.47.40:307][507]LogModuleManager: Shutting down and abandoning module SourceControl (355)
+[2020.02.03-21.47.40:308][507]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (352)
+[2020.02.03-21.47.40:320][507]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (350)
+[2020.02.03-21.47.40:320][507]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (348)
+[2020.02.03-21.47.40:320][507]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (346)
+[2020.02.03-21.47.40:320][507]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (344)
+[2020.02.03-21.47.40:320][507]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (342)
+[2020.02.03-21.47.40:320][507]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (340)
+[2020.02.03-21.47.40:320][507]LogModuleManager: Shutting down and abandoning module Paper2DEditor (338)
+[2020.02.03-21.47.40:373][507]LogModuleManager: Shutting down and abandoning module SignificanceManager (336)
+[2020.02.03-21.47.40:373][507]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (334)
+[2020.02.03-21.47.40:373][507]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (332)
+[2020.02.03-21.47.40:373][507]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (328)
+[2020.02.03-21.47.40:373][507]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2020.02.03-21.47.40:373][507]LogModuleManager: Shutting down and abandoning module UdpMessaging (324)
+[2020.02.03-21.47.40:475][507]LogModuleManager: Shutting down and abandoning module TcpMessaging (322)
+[2020.02.03-21.47.40:586][507]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (320)
+[2020.02.03-21.47.40:599][507]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (318)
+[2020.02.03-21.47.40:644][507]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.02.03-21.47.40:644][507]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (316)
+[2020.02.03-21.47.40:644][507]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (314)
+[2020.02.03-21.47.40:644][507]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (312)
+[2020.02.03-21.47.40:644][507]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (310)
+[2020.02.03-21.47.40:644][507]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2020.02.03-21.47.40:656][507]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (306)
+[2020.02.03-21.47.40:656][507]LogModuleManager: Shutting down and abandoning module MagicLeapController (304)
+[2020.02.03-21.47.40:674][507]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.02.03-21.47.40:674][507]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (302)
+[2020.02.03-21.47.40:675][507]LogModuleManager: Shutting down and abandoning module MagicLeapAR (300)
+[2020.02.03-21.47.40:675][507]LogModuleManager: Shutting down and abandoning module AugmentedReality (299)
+[2020.02.03-21.47.40:675][507]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (296)
+[2020.02.03-21.47.40:675][507]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (294)
+[2020.02.03-21.47.40:675][507]LogModuleManager: Shutting down and abandoning module FacialAnimation (292)
+[2020.02.03-21.47.40:675][507]LogModuleManager: Shutting down and abandoning module DataValidation (290)
+[2020.02.03-21.47.40:675][507]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (288)
+[2020.02.03-21.47.40:704][507]LogModuleManager: Shutting down and abandoning module LevelEditor (287)
+[2020.02.03-21.47.40:713][507]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (286)
+[2020.02.03-21.47.40:740][507]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (284)
+[2020.02.03-21.47.40:740][507]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2020.02.03-21.47.40:740][507]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2020.02.03-21.47.40:756][507]LogModuleManager: Shutting down and abandoning module ContentBrowser (277)
+[2020.02.03-21.47.40:757][507]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2020.02.03-21.47.40:765][507]LogModuleManager: Shutting down and abandoning module AnimationSharing (272)
+[2020.02.03-21.47.40:765][507]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2020.02.03-21.47.40:765][507]LogModuleManager: Shutting down and abandoning module Paper2D (268)
+[2020.02.03-21.47.40:785][507]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (266)
+[2020.02.03-21.47.40:818][507]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (264)
+[2020.02.03-21.47.40:824][507]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (262)
+[2020.02.03-21.47.40:824][507]LogModuleManager: Shutting down and abandoning module PacketHandler (260)
+[2020.02.03-21.47.40:824][507]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (258)
+[2020.02.03-21.47.40:824][507]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (256)
+[2020.02.03-21.47.40:843][507]LogModuleManager: Shutting down and abandoning module MediaAssets (254)
+[2020.02.03-21.47.40:862][507]LogModuleManager: Shutting down and abandoning module Overlay (252)
+[2020.02.03-21.47.40:862][507]LogModuleManager: Shutting down and abandoning module OverlayEditor (251)
+[2020.02.03-21.47.40:862][507]LogModuleManager: Shutting down and abandoning module VREditor (248)
+[2020.02.03-21.47.40:882][507]LogModuleManager: Shutting down and abandoning module StringTableEditor (246)
+[2020.02.03-21.47.40:906][507]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (244)
+[2020.02.03-21.47.40:906][507]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (242)
+[2020.02.03-21.47.40:951][507]LogModuleManager: Shutting down and abandoning module FunctionalTesting (240)
+[2020.02.03-21.47.40:967][507]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (238)
+[2020.02.03-21.47.40:993][507]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2020.02.03-21.47.41:013][507]LogModuleManager: Shutting down and abandoning module UMG (234)
+[2020.02.03-21.47.41:035][507]LogModuleManager: Shutting down and abandoning module UMGEditor (233)
+[2020.02.03-21.47.41:067][507]LogModuleManager: Shutting down and abandoning module MessageLog (231)
+[2020.02.03-21.47.41:067][507]LogModuleManager: Shutting down and abandoning module SlateReflector (226)
+[2020.02.03-21.47.41:139][507]LogModuleManager: Shutting down and abandoning module Slate (224)
+[2020.02.03-21.47.41:139][507]LogModuleManager: Shutting down and abandoning module SlateCore (222)
+[2020.02.03-21.47.41:139][507]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2020.02.03-21.47.41:139][507]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2020.02.03-21.47.41:139][507]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2020.02.03-21.47.41:139][507]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2020.02.03-21.47.41:139][507]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2020.02.03-21.47.41:147][507]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2020.02.03-21.47.41:169][507]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2020.02.03-21.47.41:169][507]LogModuleManager: Shutting down and abandoning module Core (206)
+[2020.02.03-21.47.41:169][507]LogModuleManager: Shutting down and abandoning module MovieSceneTools (204)
+[2020.02.03-21.47.41:198][507]LogModuleManager: Shutting down and abandoning module CurveEditor (203)
+[2020.02.03-21.47.41:240][507]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2020.02.03-21.47.41:304][507]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.02.03-21.47.41:330][507]LogModuleManager: Shutting down and abandoning module KismetCompiler (196)
+[2020.02.03-21.47.41:330][507]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2020.02.03-21.47.41:350][507]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2020.02.03-21.47.41:374][507]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2020.02.03-21.47.41:374][507]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2020.02.03-21.47.41:393][507]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2020.02.03-21.47.41:411][507]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2020.02.03-21.47.41:436][507]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2020.02.03-21.47.41:487][507]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2020.02.03-21.47.41:559][507]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2020.02.03-21.47.41:559][507]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2020.02.03-21.47.41:559][507]LogDerivedDataCache: Shutdown
+[2020.02.03-21.47.41:559][507]LogModuleManager: Shutting down and abandoning module XGEController (172)
+[2020.02.03-21.47.41:559][507]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2020.02.03-21.47.41:559][507]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2020.02.03-21.47.41:572][507]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2020.02.03-21.47.41:584][507]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2020.02.03-21.47.41:608][507]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2020.02.03-21.47.41:608][507]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2020.02.03-21.47.41:629][507]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2020.02.03-21.47.41:629][507]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (157)
+[2020.02.03-21.47.41:629][507]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2020.02.03-21.47.41:640][507]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2020.02.03-21.47.41:656][507]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2020.02.03-21.47.41:656][507]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2020.02.03-21.47.41:656][507]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (147)
+[2020.02.03-21.47.41:656][507]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (145)
+[2020.02.03-21.47.41:669][507]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (143)
+[2020.02.03-21.47.41:669][507]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (141)
+[2020.02.03-21.47.41:689][507]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (139)
+[2020.02.03-21.47.41:689][507]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (137)
+[2020.02.03-21.47.41:689][507]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (135)
+[2020.02.03-21.47.41:689][507]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (133)
+[2020.02.03-21.47.41:689][507]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (131)
+[2020.02.03-21.47.41:707][507]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.02.03-21.47.41:729][507]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (127)
+[2020.02.03-21.47.41:729][507]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (125)
+[2020.02.03-21.47.41:749][507]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (123)
+[2020.02.03-21.47.41:752][507]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.02.03-21.47.41:752][507]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.02.03-21.47.41:771][507]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.02.03-21.47.41:794][507]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.02.03-21.47.41:794][507]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.02.03-21.47.41:795][507]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.02.03-21.47.41:806][507]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2020.02.03-21.47.41:806][507]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2020.02.03-21.47.41:806][507]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2020.02.03-21.47.41:806][507]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2020.02.03-21.47.41:808][507]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2020.02.03-21.47.41:808][507]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2020.02.03-21.47.41:841][507]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2020.02.03-21.47.41:841][507]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2020.02.03-21.47.41:841][507]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2020.02.03-21.47.41:841][507]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2020.02.03-21.47.41:864][507]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2020.02.03-21.47.41:883][507]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2020.02.03-21.47.41:883][507]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2020.02.03-21.47.41:897][507]LogHMD: Freeing OpenVRDLLHandle.
+[2020.02.03-21.47.41:897][507]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2020.02.03-21.47.41:925][507]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2020.02.03-21.47.41:925][507]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2020.02.03-21.47.41:925][507]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2020.02.03-21.47.41:925][507]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2020.02.03-21.47.41:989][507]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.02.03-21.47.42:012][507]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.02.03-21.47.42:061][507]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.02.03-21.47.42:061][507]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.02.03-21.47.42:061][507]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B323977C1-4936-26B8-0A59-E98419BB9E01%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=d590b70e4fe3ae59fb5b19bb6b504989%7C66d4ea54730043718b67d9959cd347df%7Cf2d78875-253c-47c7-937f-ffd26868b8b7&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.02.03-21.47.42:071][507]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.02.03-21.47.42:078][507]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.02.03-21.47.42:116][507]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.02.03-21.47.42:117][507]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.02.03-21.47.42:117][507]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.02.03-21.47.42:117][507]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.02.03-21.47.42:118][507]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.02.03-21.47.42:118][507]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.02.03-21.47.42:118][507]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.02.03-21.47.42:125][507]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.02.03-21.47.42:125][507]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.02.03-21.47.42:125][507]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.02.03-21.47.42:135][507]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.02.03-21.47.42:151][507]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.02.03-21.47.42:192][507]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.02.03-21.47.42:200][507]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.02.03-21.47.42:200][507]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.02.03-21.47.42:200][507]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.02.03-21.47.42:233][507]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.02.03-21.47.42:242][507]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.02.03-21.47.42:242][507]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.02.03-21.47.42:253][507]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.02.03-21.47.42:270][507]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.02.03-21.47.42:270][507]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.02.03-21.47.42:270][507]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.02.03-21.47.42:284][507]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.02.03-21.47.42:284][507]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.02.03-21.47.42:297][507]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.02.03-21.47.42:304][507]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.02.03-21.47.42:304][507]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.02.03-21.47.42:323][507]LogD3D11RHI: Shutdown
+[2020.02.03-21.47.42:323][507]LogD3D11RHI: CleanupD3DDevice
+[2020.02.03-21.47.42:452][507]LogExit: Exiting.
+[2020.02.03-21.47.42:462][507]Log file closed, 02/03/20 15:47:42
