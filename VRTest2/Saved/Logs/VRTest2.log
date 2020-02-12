@@ -686,3 +686,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.12-01.14.56:860][674]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.MotionControllerMap_BuiltData
 [2020.02.12-01.15.01:556][195]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
 [2020.02.12-01.15.02:711][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.02.12-01.31.56:272][655]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2020.02.12-01.34.18:295][340]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap
+[2020.02.12-01.34.52:468][297]BlueprintLog: New page: Compile MotionControllerMap
+[2020.02.12-01.34.52:657][297]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.02.12-01.35.22:611][831]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.02.12-01.35.22:811][831]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/GitHub/Test/VRTest2/Saved/MotionControllerMap9206672C47722D19A4E88D8C1C24FC50.tmp' to 'C:/Users/raybr/OneDrive/Documents/GitHub/Test/VRTest2/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2020.02.12-01.35.22:906][831]LogSavePackage: Moving 'C:/Users/raybr/OneDrive/Documents/GitHub/Test/VRTest2/Saved/MotionControllerMap_BuiltData93A21CEB4B9229453EFE3FA98CA014B2.tmp' to 'C:/Users/raybr/OneDrive/Documents/GitHub/Test/VRTest2/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset'
+[2020.02.12-01.35.22:921][831]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.12-01.35.22:921][831]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
+[2020.02.12-01.35.22:921][831]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.MotionControllerMap_BuiltData
+[2020.02.12-01.35.25:174][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
